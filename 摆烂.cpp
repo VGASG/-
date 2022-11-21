@@ -8,7 +8,7 @@ int main()
 	while (1)
 	{
 		start = start++;
-		cout << "�Ѱ��ã�" << start << "��" << endl;
+		cout << "ÒÑ°ÚÀÃ£º" << start << "Ãë" << endl;
 		Sleep(1000);
 		system("cls");
 	}
