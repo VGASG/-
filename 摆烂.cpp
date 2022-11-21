@@ -8,7 +8,7 @@ int main()
 	while (1)
 	{
 		start = start++;
-		cout << "ÒÑ°ÚÀÃ£º" << start << "Ãë" << endl;
+		cout << "摆烂" << start << "秒" << endl;
 		Sleep(1000);
 		system("cls");
 	}
